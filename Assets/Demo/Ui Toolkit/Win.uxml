@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Win" style="flex-grow: 1; background-image: url(&apos;project://database/Assets/Demo/Sprites/Screenshot%202024-04-26%20103231.png?fileID=2800000&amp;guid=dc6fb21f13b1bbe449dcb252e36bf458&amp;type=3#Screenshot 2024-04-26 103231&apos;); color: rgb(255, 69, 69); -unity-font-style: normal;">
+        <ui:Label tabindex="-1" text="You Are Winner" parse-escape-sequences="true" display-tooltip-when-elided="true" name="YouAreWinner" style="font-size: 230px; -unity-font-style: bold; -unity-text-align: upper-center; align-self: center; top: 113px; color: rgb(0, 0, 0);" />
+        <ui:Button text="RePlay" parse-escape-sequences="true" display-tooltip-when-elided="true" name="RePlay" style="font-size: 100px; -unity-font-style: bold; align-self: center; top: 485px; right: 639px; color: rgb(0, 0, 0); background-color: rgba(255, 255, 255, 0.53); background-image: none;" />
+        <ui:Button text="NextLevel" parse-escape-sequences="true" display-tooltip-when-elided="true" name="NextLevel" style="font-size: 100px; -unity-font-style: bold; align-self: center; top: 364px; right: -519px; color: rgb(0, 0, 0); background-color: rgba(255, 255, 255, 0.62);" />
+    </ui:VisualElement>
+</ui:UXML>
